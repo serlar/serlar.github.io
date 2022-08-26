@@ -1,0 +1,52 @@
+<map id="test_method_of_BFS" name="test_method_of_BFS">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1215,160,1241"/>
+<area shape="rect" id="node2" href="$group__algorithm.html#ga912093bd368862205ca748b8a3739409" title="The algorithm implementation of breadth&#45;first&#45;search." alt="" coords="273,597,320,624"/>
+<area shape="rect" id="node11" href="$group__GrB__Vector.html#ga299443006bfa4b77d8319131bf12d5af" title="Destroys a previously created GrB_Vector object and releases any resources associated with the object..." alt="" coords="1377,617,1503,644"/>
+<area shape="rect" id="node24" href="$group__GrB__Vector.html#gaa68412b3589f9082032837e5fa26aa25" title=" " alt="" coords="1339,386,1541,427"/>
+<area shape="rect" id="node29" href="$group__GrB__Vector.html#ga4c0e7d53d13d7ba9b671c450d6f65b98" title="Creates a new vector with specified domain and size." alt="" coords="1376,728,1504,755"/>
+<area shape="rect" id="node38" href="$GrB__init_8c.html#a559fcfacb933612254defd4966a5b0a9" title=" " alt="" coords="1403,43,1477,69"/>
+<area shape="rect" id="node41" href="$GrB__Matrix_8c.html#ae2b9a891e0738fb76b4b0e062c552381" title=" " alt="" coords="208,1265,385,1292"/>
+<area shape="rect" id="node42" href="$GrB__Matrix_8c.html#ac3cc855dc53552eda15832920f4428af" title=" " alt="" coords="233,1215,361,1241"/>
+<area shape="rect" id="node44" href="$GrB__Matrix_8c.html#a81ccfff62241d3334e94cd9fee5f8875" title=" " alt="" coords="1375,1425,1505,1452"/>
+<area shape="rect" id="node48" href="$GxB__Global__Option__set_8c.html#a5b2a7d663c7a71218ae8366f779897e6" title=" " alt="" coords="209,1443,384,1469"/>
+<area shape="rect" id="node3" href="$GrB__Matrix_8c.html#ae6b04a53bef48d8270d31eb147690065" title=" " alt="" coords="471,445,618,472"/>
+<area shape="rect" id="node4" href="$GrB__Matrix_8c.html#a96711adbd6c3a1ee316d70462175a5bc" title=" " alt="" coords="474,496,615,523"/>
+<area shape="rect" id="node5" href="$GrB__assign_8c.html#a2b53999661cc3927ef39a0d6ee5d6665" title=" " alt="" coords="747,1215,935,1241"/>
+<area shape="rect" id="node14" href="$group__GrB__reduce.html#ga9d4d752f71200b76b6211299afa7e83e" title=" " alt="" coords="451,855,639,881"/>
+<area shape="rect" id="node19" href="$group__GrB__Vector.html#ga9f31f764635c099942b423460b3c4cda" title=" " alt="" coords="1331,269,1549,296"/>
+<area shape="rect" id="node20" href="$group__GrB__vxm.html#ga2f5f114b7b888841f320f7419cb98bc3" title="Vector multiplication matrix." alt="" coords="503,597,586,624"/>
+<area shape="rect" id="node36" href="$GrB__Vector_8c.html#a0f45ccbdb454e6138c8a3fcb2eedd1d4" title=" " alt="" coords="1349,779,1531,805"/>
+<area shape="rect" id="node6" href="$GrB__assign_8c.html#acbec6095c0ed20e1ad72ecb9b77e94b7" title=" " alt="" coords="1346,1099,1534,1141"/>
+<area shape="rect" id="node8" href="$GrB__assign_8c.html#af36e4084ed2bcfc9a00928a5c44eae0a" title=" " alt="" coords="1061,1215,1249,1257"/>
+<area shape="rect" id="node7" href="$GrB__error_8h.html#a3e5629ce1eb4c97897a430888b2e21e7" title=" " alt="" coords="1663,931,1747,957"/>
+<area shape="rect" id="node9" href="$GrB__assign_8c.html#a1c33fa673013e618d71ce1364ce467ad" title=" " alt="" coords="1353,1217,1527,1258"/>
+<area shape="rect" id="node10" href="$group__GrB__Vector.html#gaba5025fd49bff3a798a3eab221601378" title=" " alt="" coords="1353,982,1527,1023"/>
+<area shape="rect" id="node12" href="$GrB__Vector__Dense_8h.html#ac8cc0c895517b41c47dcc5dee7f7d482" title=" " alt="" coords="1617,613,1792,640"/>
+<area shape="rect" id="node13" href="$group__GrB__Vector__Sparse.html#gad63163398f8a211c6b1a25c1534a8c28" title="Frees the space of a sparse vector object." alt="" coords="1615,563,1794,589"/>
+<area shape="rect" id="node15" href="$GrB__reduce_8c.html#a7e68db07ae1d8f3f5aa912267ec37187" title=" " alt="" coords="745,750,938,791"/>
+<area shape="rect" id="node16" href="$GrB__reduce_8c.html#ae277e1522ecb0e2efe654622b5d4a0de" title=" " alt="" coords="745,815,938,857"/>
+<area shape="rect" id="node17" href="$GrB__reduce_8c.html#a28042c6f653c5ca3c93bc9dcb10a0833" title=" " alt="" coords="743,881,939,922"/>
+<area shape="rect" id="node18" href="$GrB__reduce_8c.html#ac84410ce534eee61629f9717339975af" title=" " alt="" coords="743,946,939,987"/>
+<area shape="rect" id="node21" href="$GrB__vxm_8c.html#ab4343e6aa8c4ea17d4968b93e0b00bb4" title=" " alt="" coords="735,240,948,267"/>
+<area shape="rect" id="node27" href="$GrB__vxm_8c.html#a4a8db75eb0ece02630fab7a0e43b4522" title=" " alt="" coords="704,547,979,573"/>
+<area shape="rect" id="node37" href="$GrB__vxm_8c.html#a7ac55a90b98d19a91f634f1b7c17c1cd" title=" " alt="" coords="1070,779,1239,821"/>
+<area shape="rect" id="node22" href="$GrB__vxm_8c.html#ab8fed1ef4bfbd55be6d6f1370b8c7d11" title=" " alt="" coords="1064,145,1245,186"/>
+<area shape="rect" id="node23" href="$GrB__vxm_8c.html#a38ca3c0461833eebe35d1a987be69fa2" title=" " alt="" coords="1064,327,1245,369"/>
+<area shape="rect" id="node25" href="$GrB__vxm_8c.html#af3474e986c9888e36ba5463c8aceae79" title=" " alt="" coords="1027,211,1283,237"/>
+<area shape="rect" id="node26" href="$GrB__vxm_8c.html#ab9f44e85522164eb52953811c76488c2" title=" " alt="" coords="1048,262,1261,303"/>
+<area shape="rect" id="node28" href="$GrB__vxm_8c.html#a75466ee467e4ea210e747f74f327bb12" title=" " alt="" coords="1064,546,1245,587"/>
+<area shape="rect" id="node34" href="$GrB__vxm_8c.html#aa5e8bb333f11ab872a63ecf1b22b37db" title=" " alt="" coords="1055,611,1254,653"/>
+<area shape="rect" id="node35" href="$GrB__vxm_8c.html#a4fbdb6367a019169786bbe2595f39b5d" title=" " alt="" coords="1064,728,1245,755"/>
+<area shape="rect" id="node30" href="$GrB__global_8h.html#a70f79ba342d06a4b943b47dbd7e2534e" title=" " alt="" coords="1619,665,1790,706"/>
+<area shape="rect" id="node31" href="$GrB__Vector__Dense_8h.html#a016acf188824b0f70cab1c675961bebd" title=" " alt="" coords="1617,781,1793,808"/>
+<area shape="rect" id="node33" href="$group__GrB__Vector__Sparse.html#ga1834e6e3cd9b4e10c95e18503bf00ffd" title="Create a GrB_Vector_Sparse object." alt="" coords="1615,731,1794,757"/>
+<area shape="rect" id="node32" href="$GrB__alloc_8h.html#aedf5f3656ee1a7be3088b54a2a47e54e" title=" " alt="" coords="1860,731,2012,757"/>
+<area shape="rect" id="node39" href="$GrB__global_8h.html#aef027b9b74089d9aa9a5340a5db0e572" title=" " alt="" coords="1620,140,1789,167"/>
+<area shape="rect" id="node40" href="$GrB__global_8h.html#ade0c0b9c83b2051e6b803d5a6c42caf8" title=" " alt="" coords="1614,293,1795,334"/>
+<area shape="rect" id="node43" href="$GrB__Matrix__CSC__or__CSR_8h.html#a83ee3f12caa1f487407143f8c346763f" title=" " alt="" coords="437,1265,652,1292"/>
+<area shape="rect" id="node45" href="$GrB__global_8h.html#a84cc488714354f482faa0d500d164f91" title=" " alt="" coords="1620,1375,1789,1401"/>
+<area shape="rect" id="node46" href="$GrB__Matrix__CSC__or__CSR_8h.html#af363fd518d2590692b76d8dd12097680" title="Create a matrix of CSC/CSR format." alt="" coords="1597,1425,1812,1452"/>
+<area shape="rect" id="node47" href="$GrB__alloc_8h.html#a7a05a7680f682e278babbba8d051404c" title=" " alt="" coords="1863,1425,2009,1452"/>
+<area shape="rect" id="node49" href="$GrB__global_8h.html#ad8c226cec17632659f12129f679a0478" title=" " alt="" coords="461,1468,629,1495"/>
+<area shape="rect" id="node50" href="$GrB__global_8h.html#a5f3b1f0022efda7204801a450ccedc45" title=" " alt="" coords="433,1519,656,1545"/>
+</map>

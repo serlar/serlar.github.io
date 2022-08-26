@@ -1,0 +1,8 @@
+<map id="GrB_Vector_new" name="GrB_Vector_new">
+<area shape="rect" id="node1" title="Creates a new vector with specified domain and size." alt="" coords="5,93,133,120"/>
+<area shape="rect" id="node2" href="$GrB__error_8h.html#a3e5629ce1eb4c97897a430888b2e21e7" title=" " alt="" coords="229,5,313,32"/>
+<area shape="rect" id="node3" href="$GrB__global_8h.html#a70f79ba342d06a4b943b47dbd7e2534e" title=" " alt="" coords="185,57,356,98"/>
+<area shape="rect" id="node4" href="$GrB__Vector__Dense_8h.html#a016acf188824b0f70cab1c675961bebd" title=" " alt="" coords="183,123,359,149"/>
+<area shape="rect" id="node6" href="$group__GrB__Vector__Sparse.html#ga1834e6e3cd9b4e10c95e18503bf00ffd" title="Create a GrB_Vector_Sparse object." alt="" coords="181,173,360,200"/>
+<area shape="rect" id="node5" href="$GrB__alloc_8h.html#aedf5f3656ee1a7be3088b54a2a47e54e" title=" " alt="" coords="408,148,560,175"/>
+</map>

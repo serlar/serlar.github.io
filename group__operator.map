@@ -1,0 +1,11 @@
+<map id="Operator" name="Operator">
+<area shape="rect" id="node1" href="$group__GrB__reduce.html" title="Perform a reduction across the elements of an object." alt="" coords="145,5,242,31"/>
+<area shape="rect" id="node2" href="$group__GrB__mxm.html" title="Matrix&#45;Matrix multiplication module." alt="" coords="150,55,237,80"/>
+<area shape="rect" id="node3" href="$group__GrB__mxv.html" title="Matrix&#45;Vector multiplication module." alt="" coords="152,104,235,129"/>
+<area shape="rect" id="node4" href="$group__GrB__eWiseAdd.html" title="Element&#45;wise addition." alt="" coords="134,153,253,179"/>
+<area shape="rect" id="node5" title="The basic operations of OpenGraphBLAS." alt="" coords="5,179,84,204"/>
+<area shape="rect" id="node6" href="$group__GrB__vxm.html" title="Matrix&#45;Vector multiplication module." alt="" coords="152,203,235,228"/>
+<area shape="rect" id="node7" href="$group__GrB__assign.html" title="Assign the contents of a subset of a matrix or vector." alt="" coords="146,252,241,277"/>
+<area shape="rect" id="node8" href="$group__GrB__extract.html" title="Extract a subset of a matrix or vector." alt="" coords="144,301,243,327"/>
+<area shape="rect" id="node9" href="$group__GrB__eWiseMult.html" title="Element&#45;wise multiplication." alt="" coords="132,351,255,376"/>
+</map>

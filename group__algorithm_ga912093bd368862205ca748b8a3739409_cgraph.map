@@ -1,0 +1,17 @@
+<map id="BFS" name="BFS">
+<area shape="rect" id="node1" title="The algorithm implementation of breadth&#45;first&#45;search." alt="" coords="5,183,52,209"/>
+<area shape="rect" id="node2" href="$group__ObjectFormat.html#gaf2767167da175eef1f817456fbec7f40" title="Get the format of the given matrix." alt="" coords="122,5,297,32"/>
+<area shape="rect" id="node3" href="$group__GrB__Matrix.html#ga96711adbd6c3a1ee316d70462175a5bc" title="Number of rows in a matrix." alt="" coords="139,56,280,83"/>
+<area shape="rect" id="node4" href="$group__GrB__assign.html#ga237ee27bb157cb12497f5aea5f5eca58" title="Assign an INT32 value to a subset of a GrB_Vector as specified by a set of indices." alt="" coords="115,107,303,133"/>
+<area shape="rect" id="node5" href="$group__GrB__Vector.html#ga299443006bfa4b77d8319131bf12d5af" title="Destroys a previously created GrB_Vector object and releases any resources associated with the object..." alt="" coords="441,157,567,184"/>
+<area shape="rect" id="node9" href="$group__ObjectFormat.html#ga2bb1d096baeba864fa501f9dc03246f3" title="Creates a new vector with specified domain, size and format." alt="" coords="401,208,607,235"/>
+<area shape="rect" id="node10" href="$group__GrB__reduce.html#ga9d4d752f71200b76b6211299afa7e83e" title="Reduce all stored values into a single BOOL scalar." alt="" coords="115,309,303,336"/>
+<area shape="rect" id="node11" href="$group__GrB__Vector.html#ga9f31f764635c099942b423460b3c4cda" title="Set a single BOOL element in a vector." alt="" coords="100,360,319,387"/>
+<area shape="rect" id="node12" href="$group__GrB__vxm.html#ga2f5f114b7b888841f320f7419cb98bc3" title="Vector multiplication matrix." alt="" coords="168,259,251,285"/>
+<area shape="rect" id="node6" href="$GrB__error_8h.html#a3e5629ce1eb4c97897a430888b2e21e7" title=" " alt="" coords="737,292,821,319"/>
+<area shape="rect" id="node7" href="$group__GrB__Vector__Dense.html#gac8cc0c895517b41c47dcc5dee7f7d482" title=" " alt="" coords="691,183,866,209"/>
+<area shape="rect" id="node8" href="$group__GrB__Vector__Sparse.html#gad63163398f8a211c6b1a25c1534a8c28" title="Frees the space of a sparse vector object." alt="" coords="689,132,868,159"/>
+<area shape="rect" id="node13" href="$GrB__vxm_8c.html#ab4343e6aa8c4ea17d4968b93e0b00bb4" title=" " alt="" coords="397,427,611,453"/>
+<area shape="rect" id="node14" href="$GrB__vxm_8c.html#a4a8db75eb0ece02630fab7a0e43b4522" title=" " alt="" coords="367,259,641,285"/>
+<area shape="rect" id="node15" href="$GrB__vxm_8c.html#a7ac55a90b98d19a91f634f1b7c17c1cd" title=" " alt="" coords="419,310,589,351"/>
+</map>

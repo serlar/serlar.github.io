@@ -1,0 +1,10 @@
+<map id="src/core/include/GrB_global.h" name="src/core/include/GrB_global.h">
+<area shape="rect" id="node1" title=" " alt="" coords="629,5,781,47"/>
+<area shape="rect" id="node2" href="$GrB__finalize_8c.html" title=" " alt="" coords="5,102,195,129"/>
+<area shape="rect" id="node3" href="$GrB__global_8c.html" title=" " alt="" coords="219,102,402,129"/>
+<area shape="rect" id="node4" href="$GrB__Global__Option__set_8c.html" title=" " alt="" coords="427,95,600,136"/>
+<area shape="rect" id="node5" href="$GrB__init_8c.html" title=" " alt="" coords="624,102,787,129"/>
+<area shape="rect" id="node6" href="$GrB__Matrix_8c.html" title=" " alt="" coords="811,102,995,129"/>
+<area shape="rect" id="node7" href="$GrB__Vector_8c.html" title="Member functions of GrB_Vector." alt="" coords="1019,102,1202,129"/>
+<area shape="rect" id="node8" href="$GrB__vxm_8c.html" title="GrB_vxm primitive." alt="" coords="1226,95,1385,136"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="GrB_Vector" name="GrB_Vector">
+<area shape="rect" id="node1" href="$group__GrB__Vector__Dense.html" title="A Dense vector class." alt="" coords="249,5,392,31"/>
+<area shape="rect" id="node2" href="$group__GrB__Vector__Sparse.html" title="A sparse vector class." alt="" coords="248,55,393,80"/>
+<area shape="rect" id="node3" href="$group__core.html" title="OpenGraphBLAS objects." alt="" coords="5,31,57,56"/>
+<area shape="rect" id="node4" title="GrB_Vector class." alt="" coords="105,31,200,56"/>
+</map>

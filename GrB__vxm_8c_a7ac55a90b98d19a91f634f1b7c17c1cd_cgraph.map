@@ -1,0 +1,17 @@
+<map id="GrB_vxm_PLUS_TIMES_SEMIRING_INT32" name="GrB_vxm_PLUS_TIMES_SEMIRING_INT32">
+<area shape="rect" id="node1" title=" " alt="" coords="5,245,175,286"/>
+<area shape="rect" id="node2" href="$GrB__error_8h.html#a3e5629ce1eb4c97897a430888b2e21e7" title=" " alt="" coords="562,107,646,133"/>
+<area shape="rect" id="node3" href="$GrB__Matrix_8c.html#a532a3008243539507a28c49be8252f9c" title=" " alt="" coords="243,215,446,257"/>
+<area shape="rect" id="node4" href="$group__GrB__Vector.html#gabf3d1c0176f06febf6e5bb1fafad69b1" title=" " alt="" coords="223,281,467,308"/>
+<area shape="rect" id="node5" href="$group__GrB__Vector.html#gaa68412b3589f9082032837e5fa26aa25" title=" " alt="" coords="244,333,445,374"/>
+<area shape="rect" id="node6" href="$group__GrB__Vector.html#ga299443006bfa4b77d8319131bf12d5af" title="Destroys a previously created GrB_Vector object and releases any resources associated with the object..." alt="" coords="281,57,408,84"/>
+<area shape="rect" id="node9" href="$group__GrB__Vector.html#ga4c0e7d53d13d7ba9b671c450d6f65b98" title="Creates a new vector with specified domain and size." alt="" coords="281,164,409,191"/>
+<area shape="rect" id="node14" href="$group__GrB__Vector.html#ga1ec5258512f7cefd0c8d914c4b88b105" title="Retrieve the number of stored elements (tuples) in a vector." alt="" coords="277,399,413,425"/>
+<area shape="rect" id="node15" href="$group__GrB__Vector.html#gaba5025fd49bff3a798a3eab221601378" title=" " alt="" coords="257,450,432,491"/>
+<area shape="rect" id="node7" href="$GrB__Vector__Dense_8h.html#ac8cc0c895517b41c47dcc5dee7f7d482" title=" " alt="" coords="517,5,691,32"/>
+<area shape="rect" id="node8" href="$group__GrB__Vector__Sparse.html#gad63163398f8a211c6b1a25c1534a8c28" title="Frees the space of a sparse vector object." alt="" coords="515,56,693,83"/>
+<area shape="rect" id="node10" href="$GrB__global_8h.html#a70f79ba342d06a4b943b47dbd7e2534e" title=" " alt="" coords="519,158,689,199"/>
+<area shape="rect" id="node11" href="$GrB__Vector__Dense_8h.html#a016acf188824b0f70cab1c675961bebd" title=" " alt="" coords="516,224,692,251"/>
+<area shape="rect" id="node13" href="$group__GrB__Vector__Sparse.html#ga1834e6e3cd9b4e10c95e18503bf00ffd" title="Create a GrB_Vector_Sparse object." alt="" coords="515,275,693,301"/>
+<area shape="rect" id="node12" href="$GrB__alloc_8h.html#aedf5f3656ee1a7be3088b54a2a47e54e" title=" " alt="" coords="741,249,893,276"/>
+</map>

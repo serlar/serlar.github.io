@@ -1,0 +1,20 @@
+<map id="TriangleCount" name="TriangleCount">
+<area shape="rect" id="node1" title=" " alt="" coords="5,283,116,309"/>
+<area shape="rect" id="node2" href="$GrB__init_8c.html#a559fcfacb933612254defd4966a5b0a9" title=" " alt="" coords="222,64,297,91"/>
+<area shape="rect" id="node6" href="$GrB__Matrix_8c.html#ac3cc855dc53552eda15832920f4428af" title=" " alt="" coords="195,232,323,259"/>
+<area shape="rect" id="node9" href="$GrB__Matrix_8c.html#a1ebc631bd4edec9d52fd6a01efbd8078" title=" " alt="" coords="442,325,578,352"/>
+<area shape="rect" id="node10" href="$GrB__Matrix_8c.html#a81ccfff62241d3334e94cd9fee5f8875" title=" " alt="" coords="195,177,324,204"/>
+<area shape="rect" id="node14" href="$GrB__Matrix_8c.html#a96711adbd6c3a1ee316d70462175a5bc" title=" " alt="" coords="439,443,581,469"/>
+<area shape="rect" id="node15" href="$group__GrB__reduce.html#ga510312a478aec32790e6d6d607888c89" title=" " alt="" coords="164,333,355,360"/>
+<area shape="rect" id="node17" href="$group__GrB__mxm.html#ga5c3274f3bae058b3eccbbd7a46419198" title="Matrix multiplication matrix." alt="" coords="216,384,303,411"/>
+<area shape="rect" id="node3" href="$GrB__global_8h.html#aef027b9b74089d9aa9a5340a5db0e572" title=" " alt="" coords="425,5,595,32"/>
+<area shape="rect" id="node5" href="$GrB__global_8h.html#ade0c0b9c83b2051e6b803d5a6c42caf8" title=" " alt="" coords="419,57,601,98"/>
+<area shape="rect" id="node4" href="$GrB__alloc_8h.html#aedf5f3656ee1a7be3088b54a2a47e54e" title=" " alt="" coords="665,64,817,91"/>
+<area shape="rect" id="node7" href="$GrB__error_8h.html#a3e5629ce1eb4c97897a430888b2e21e7" title=" " alt="" coords="468,275,552,301"/>
+<area shape="rect" id="node8" href="$GrB__Matrix__CSC__or__CSR_8h.html#a83ee3f12caa1f487407143f8c346763f" title=" " alt="" coords="403,224,617,251"/>
+<area shape="rect" id="node11" href="$GrB__global_8h.html#a84cc488714354f482faa0d500d164f91" title=" " alt="" coords="425,173,595,200"/>
+<area shape="rect" id="node12" href="$GrB__Matrix__CSC__or__CSR_8h.html#af363fd518d2590692b76d8dd12097680" title="Create a matrix of CSC/CSR format." alt="" coords="403,123,617,149"/>
+<area shape="rect" id="node13" href="$GrB__alloc_8h.html#a7a05a7680f682e278babbba8d051404c" title=" " alt="" coords="668,123,815,149"/>
+<area shape="rect" id="node16" href="$GrB__Matrix_8c.html#a532a3008243539507a28c49be8252f9c" title=" " alt="" coords="409,377,611,418"/>
+<area shape="rect" id="node18" href="$GrB__Matrix_8c.html#a12178c0906831fd235cf30736339940b" title=" " alt="" coords="422,494,598,535"/>
+</map>

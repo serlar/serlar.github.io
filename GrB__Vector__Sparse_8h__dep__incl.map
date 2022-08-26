@@ -1,0 +1,8 @@
+<map id="src/core/include/GrB_Vector_Sparse.h" name="src/core/include/GrB_Vector_Sparse.h">
+<area shape="rect" id="node1" title=" " alt="" coords="411,5,563,47"/>
+<area shape="rect" id="node2" href="$GrB__Vector_8c.html" title="Member functions of GrB_Vector." alt="" coords="5,102,188,129"/>
+<area shape="rect" id="node3" href="$GrB__Vector__Sparse_8c.html" title=" " alt="" coords="212,95,384,136"/>
+<area shape="rect" id="node4" href="$GrB__assign_8c.html" title="GrB_assign primitive." alt="" coords="408,95,567,136"/>
+<area shape="rect" id="node5" href="$GrB__reduce_8c.html" title="GrB_reduce primitive." alt="" coords="591,95,749,136"/>
+<area shape="rect" id="node6" href="$GrB__vxm_8c.html" title="GrB_vxm primitive." alt="" coords="773,95,932,136"/>
+</map>

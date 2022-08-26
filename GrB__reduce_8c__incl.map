@@ -1,0 +1,12 @@
+<map id="src/operation/src/GrB_reduce.c" name="src/operation/src/GrB_reduce.c">
+<area shape="rect" id="node1" title="GrB_reduce primitive." alt="" coords="183,5,342,47"/>
+<area shape="rect" id="node2" href="$GrB__Vector_8h.html" title=" " alt="" coords="30,169,135,196"/>
+<area shape="rect" id="node7" href="$GrB__error_8h.html" title=" " alt="" coords="456,95,551,121"/>
+<area shape="rect" id="node8" href="$GrB__Vector__Dense_8h.html" title=" " alt="" coords="96,95,250,121"/>
+<area shape="rect" id="node10" href="$GrB__Vector__Sparse_8h.html" title=" " alt="" coords="274,95,432,121"/>
+<area shape="rect" id="node3" href="$OpenGraphBLAS_8h.html" title=" " alt="" coords="180,244,321,271"/>
+<area shape="rect" id="node6" title=" " alt="" coords="34,244,104,271"/>
+<area shape="rect" id="node4" title=" " alt="" coords="107,319,178,345"/>
+<area shape="rect" id="node5" title=" " alt="" coords="317,319,400,345"/>
+<area shape="rect" id="node9" href="$GrB__MACRO_8h.html" title=" " alt="" coords="210,169,325,196"/>
+</map>

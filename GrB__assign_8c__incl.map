@@ -1,0 +1,15 @@
+<map id="src/operation/src/GrB_assign.c" name="src/operation/src/GrB_assign.c">
+<area shape="rect" id="node1" title="GrB_assign primitive." alt="" coords="378,5,537,47"/>
+<area shape="rect" id="node2" href="$OpenGraphBLAS_8h.html" title=" " alt="" coords="5,244,147,271"/>
+<area shape="rect" id="node5" href="$GrB__Vector__Dense_8h.html" title=" " alt="" coords="200,95,355,121"/>
+<area shape="rect" id="node9" href="$GrB__Vector__Sparse_8h.html" title=" " alt="" coords="379,95,536,121"/>
+<area shape="rect" id="node10" href="$GrB__error_8h.html" title=" " alt="" coords="561,95,655,121"/>
+<area shape="rect" id="node11" title=" " alt="" coords="680,95,747,121"/>
+<area shape="rect" id="node12" title=" " alt="" coords="771,95,845,121"/>
+<area shape="rect" id="node13" href="$GrB__Debug_8h.html" title=" " alt="" coords="40,169,147,196"/>
+<area shape="rect" id="node3" title=" " alt="" coords="149,319,219,345"/>
+<area shape="rect" id="node4" title=" " alt="" coords="324,319,407,345"/>
+<area shape="rect" id="node6" href="$GrB__Vector_8h.html" title=" " alt="" coords="222,169,327,196"/>
+<area shape="rect" id="node8" href="$GrB__MACRO_8h.html" title=" " alt="" coords="403,169,517,196"/>
+<area shape="rect" id="node7" title=" " alt="" coords="231,244,302,271"/>
+</map>

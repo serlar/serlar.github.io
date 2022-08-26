@@ -1,0 +1,25 @@
+<map id="BetweennessCentrality" name="BetweennessCentrality">
+<area shape="rect" id="node1" title="The algorithm implementation of betweenness centrality." alt="" coords="5,360,179,387"/>
+<area shape="rect" id="node2" href="$group__GrB__extract.html#ga7c09e93277604478d252fec050a0032f" title="Extract from one column of a matrix into a vector. Note that with the transpose descriptor for the so..." alt="" coords="259,5,385,32"/>
+<area shape="rect" id="node3" href="$group__GrB__Matrix.html#ga27877634c2cb34a65232b9485cd404bf" title="Destroy a matrix and release its resources." alt="" coords="258,56,386,83"/>
+<area shape="rect" id="node4" href="$group__GrB__Matrix.html#ga3cc7e71ddd431eb7b42b7550053fd6b0" title="Construct new matrix." alt="" coords="257,107,387,133"/>
+<area shape="rect" id="node5" href="$group__GrB__Matrix.html#ga96711adbd6c3a1ee316d70462175a5bc" title="Number of rows in a matrix." alt="" coords="251,157,393,184"/>
+<area shape="rect" id="node6" href="$group__GrB__mxv.html#ga52a20ecec7ce5069fe7ed927f1b22d0b" title="Matrix multiplication vector." alt="" coords="281,208,363,235"/>
+<area shape="rect" id="node7" href="$group__GrB__assign.html#gaa7e27400bb0fb49150d0f414a545164b" title="Assign the contents a vector to a subset of elements in one row of a matrix. Note that since the outp..." alt="" coords="257,259,387,285"/>
+<area shape="rect" id="node8" href="$group__GrB__assign.html#gac7440a9048a27b6ddb6cf869e11aac60" title="Assign an FP32 value to a subset of a GrB_Vector as specified by a set of indices." alt="" coords="231,309,413,336"/>
+<area shape="rect" id="node9" href="$group__GrB__Vector.html#ga3f1bbeb6309b25e041ceae604069289b" title="Creates a new vector with the same domain, size, and contents as another vector." alt="" coords="259,360,385,387"/>
+<area shape="rect" id="node10" href="$group__GrB__eWiseAdd.html#ga0f86762337e5189e22f2e49aa19651c2" title="Perform element&#45;wise (general) addition on the elements of two vectors, producing a third vector as r..." alt="" coords="239,411,405,453"/>
+<area shape="rect" id="node11" href="$group__GrB__eWiseMult.html#ga4f406e094d15bd9d6b0add23fedfd4f2" title="Perform element&#45;wise (general) multiplication on the intersection of elements of two vectors,..." alt="" coords="237,477,407,518"/>
+<area shape="rect" id="node12" href="$group__GrB__Vector.html#ga299443006bfa4b77d8319131bf12d5af" title="Destroys a previously created GrB_Vector object and releases any resources associated with the object..." alt="" coords="539,593,666,620"/>
+<area shape="rect" id="node16" href="$group__GrB__Vector.html#ga4c0e7d53d13d7ba9b671c450d6f65b98" title="Creates a new vector with specified domain and size." alt="" coords="258,593,386,620"/>
+<area shape="rect" id="node17" href="$GrB__reduce_8c.html#a3093527a532bba0ee4134feb4e549a3d" title=" " alt="" coords="227,644,417,671"/>
+<area shape="rect" id="node18" href="$group__GrB__Vector.html#gaba5025fd49bff3a798a3eab221601378" title="Set a single INT32element in a vector." alt="" coords="235,695,409,737"/>
+<area shape="rect" id="node19" href="$group__GrB__vxm.html#ga2f5f114b7b888841f320f7419cb98bc3" title="Vector multiplication matrix." alt="" coords="281,761,363,788"/>
+<area shape="rect" id="node13" href="$GrB__error_8h.html#a3e5629ce1eb4c97897a430888b2e21e7" title=" " alt="" coords="835,644,919,671"/>
+<area shape="rect" id="node14" href="$group__GrB__Vector__Dense.html#gac8cc0c895517b41c47dcc5dee7f7d482" title=" " alt="" coords="790,593,965,620"/>
+<area shape="rect" id="node15" href="$group__GrB__Vector__Sparse.html#gad63163398f8a211c6b1a25c1534a8c28" title="Frees the space of a sparse vector object." alt="" coords="788,543,967,569"/>
+<area shape="rect" id="node20" href="$GrB__vxm_8c.html#ab4343e6aa8c4ea17d4968b93e0b00bb4" title=" " alt="" coords="496,761,709,788"/>
+<area shape="rect" id="node21" href="$group__ObjectFormat.html#ga2bb1d096baeba864fa501f9dc03246f3" title="Creates a new vector with specified domain, size and format." alt="" coords="499,812,706,839"/>
+<area shape="rect" id="node22" href="$GrB__vxm_8c.html#a4a8db75eb0ece02630fab7a0e43b4522" title=" " alt="" coords="465,863,740,889"/>
+<area shape="rect" id="node23" href="$GrB__vxm_8c.html#a7ac55a90b98d19a91f634f1b7c17c1cd" title=" " alt="" coords="518,695,687,737"/>
+</map>
