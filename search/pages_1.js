@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['opengraphblas_1079',['OpenGraphBLAS',['../index.html',1,'']]]
+  ['opengraphblas_1081',['OpenGraphBLAS',['../index.html',1,'']]]
 ];
